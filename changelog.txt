@@ -1,0 +1,41 @@
+commit fc8624c099e075a3b6e36d297ba9ff4cd113475a
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 09:57:51 2024 +0200
+
+    landing-page-structure.md content section's desription
+
+commit 390befc4d3ab23da5ebee27c20bb0c2fd1b8c251
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 09:56:02 2024 +0200
+
+    landing-page-structure.md about us section's desription
+
+commit a26bd7819e5c8fd93b23a8ee47186d48fe0e945e
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 09:53:39 2024 +0200
+
+    landing-page-structure.md home section's description
+
+commit 8ab6215c5bed7a96a91b43b40cc6966a0deb148f
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 09:42:17 2024 +0200
+
+    landing-page-structure.md contact us add
+
+commit 6d8dc6a9c5f5956723d710259993c3e352b3ca0b
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 09:39:07 2024 +0200
+
+    landing-page-structure.md about use section add
+
+commit 55b0e6c4bf44b74c02681c9f628e9994df2edacf
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 09:37:00 2024 +0200
+
+    landing-page-structure.md home section add
+
+commit 2d2df0e2b11308041232bcd41671b6ec8ddb5084
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 09:34:36 2024 +0200
+
+    landing-page-structure.md add
