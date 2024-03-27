@@ -23,3 +23,7 @@
 ## Features
 - clickable phone number
 - online chat
+
+## Blog
+- Blog link
+- Blob purpose
