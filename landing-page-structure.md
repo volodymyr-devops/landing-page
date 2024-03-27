@@ -19,3 +19,7 @@
 - We are on Youtube, X, Fb links section
 
 > Google maps embedded to the code
+
+## Features
+- clickable phone number
+- online chat
