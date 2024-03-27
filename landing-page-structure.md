@@ -11,6 +11,8 @@
 - Team introduction with photos and roles
 - Company values
 
+> We may include our vision also
+
 ## Content
 - Map sub-section
 - Public relations manager contact email, phone number
