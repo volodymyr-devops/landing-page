@@ -1,0 +1,92 @@
+#######################################################################
+* Final changelog add
+* I should have used the structure like <feature short name>: <verb> <why>, e.g: "Landing page: add 1029AM changelog to show review it later on"
+
+commit 0c44f7828e3c5ec04ae070dfc2fdf4ec5d10478e (HEAD -> master)
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 10:46:13 2024 +0200
+
+    changelog1029AM.txt add
+
+#######################################################################
+* The merge sub-section provides us with information on the commits that caused the conflict
+* I should have used the structure like: "Landing page: resolve feature, blog sections' merge conflict"
+
+commit 12c276c7385f7620f62f953870c8551b9f671ed4
+Merge: 7db670f 680095e
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 10:28:00 2024 +0200
+
+    landing-page-structure.md resolving merge conflict
+
+######################################################################
+* Two changes on one file in different branches
+* Looks clear, besides the structure <feature short name>: <verb> <why>
+
+commit 680095ecf88d6c42ed55d9f6a9974fa170d51bc8 (feature_blog)
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 10:18:59 2024 +0200
+
+    landing-page-structure.md blog section add
+
+commit 7db670f0bfe2daec902878d2a0b71ac457ed616a (feature_section)
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 10:11:16 2024 +0200
+
+    landing-page-structure.md features section add
+
+#######################################################################
+* Intermediate changelog add
+* I should have used the structure like <feature short name>: <verb> <why>, e.g: "Landing page: add intermediate changelog to review it later on"
+
+commit af1b5b445c4c80e39cf1c50df385869c532bd86c
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 10:00:16 2024 +0200
+
+    changelog.txt add to the repo
+
+#######################################################################
+* These commits show the incremental work on the file, and sections add
+* I should have used the structure like <feature short name>: <verb> <why>, e.g: "Landing page: add/update content section's description to enrich the page"
+
+commit fc8624c099e075a3b6e36d297ba9ff4cd113475a
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 09:57:51 2024 +0200
+
+    landing-page-structure.md content section's desription
+
+commit 390befc4d3ab23da5ebee27c20bb0c2fd1b8c251
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 09:56:02 2024 +0200
+
+    landing-page-structure.md about us section's desription
+
+commit a26bd7819e5c8fd93b23a8ee47186d48fe0e945e
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 09:53:39 2024 +0200
+
+    landing-page-structure.md home section's description
+
+commit 8ab6215c5bed7a96a91b43b40cc6966a0deb148f
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 09:42:17 2024 +0200
+
+    landing-page-structure.md contact us add
+
+commit 6d8dc6a9c5f5956723d710259993c3e352b3ca0b
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 09:39:07 2024 +0200
+
+    landing-page-structure.md about use section add
+
+commit 55b0e6c4bf44b74c02681c9f628e9994df2edacf
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 09:37:00 2024 +0200
+
+    landing-page-structure.md home section add
+
+commit 2d2df0e2b11308041232bcd41671b6ec8ddb5084
+Author: Volodymyr Lenyk <volodymyr.devops@gmail.com>
+Date:   Wed Mar 27 09:34:36 2024 +0200
+
+    landing-page-structure.md add
