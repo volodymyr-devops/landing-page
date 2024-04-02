@@ -27,3 +27,7 @@
 ## Blog
 - Blog link
 - Blob purpose
+
+## learn Lambda
+ - something 
+ - ...
